@@ -18,4 +18,4 @@ java.io--输入输出包：提供与流相关的各种包；
 
 apache commons：包含了大量组件，很多实用小工具。
 
-guava
+google guava
